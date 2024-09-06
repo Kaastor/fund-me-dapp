@@ -1,0 +1,20 @@
+{
+  "name": "fund-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^1.2.0",
+    "truffle": "5.11.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
